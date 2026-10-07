@@ -1,4 +1,5 @@
-/*
-!.gitignore
-bin/*
-!bin/results-JMeter/
+/* 
+!.gitignore 
+!bin/ 
+bin/* 
+!bin/results-JMeter/ 
